@@ -1,5 +1,5 @@
 My To-Do List
 
-1. First thing
-2. Second thing
-3. Third thing
+1. Learn the command-line
+2. Learn Git
+3. Scream into earth at lunch
